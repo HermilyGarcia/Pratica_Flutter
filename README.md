@@ -1,2 +1,2 @@
 # Pratica_Flutter
-Paticando o flutter durante 30 dias.
+Praticando o flutter durante 30 dias.
